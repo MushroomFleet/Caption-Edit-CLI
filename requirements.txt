@@ -1,0 +1,3 @@
+# Caption Edit Tool Dependencies
+# The tool currently uses only standard library modules
+# This file is included for future extensibility
